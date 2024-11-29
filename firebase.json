@@ -1,0 +1,6 @@
+{
+  "functions": {
+    "memory": "1GB",
+    "timeoutSeconds": 60
+  }
+}
